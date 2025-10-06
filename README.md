@@ -5,12 +5,15 @@ React FilePond is a handy wrapper component for [FilePond](https://github.com/pq
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pqina/react-filepond/blob/master/LICENSE)
 [![npm version](https://badge.fury.io/js/react-filepond.svg)](https://www.npmjs.com/package/react-filepond)
 ![npm](https://img.shields.io/npm/dt/react-filepond)
+[![Discord](https://img.shields.io/discord/1422126182924554291?label=discord)](https://discord.gg/KTyymsrTrX)
+
+[Documentation](https://pqina.nl/filepond/docs) • [Discord](https://discord.gg/KTyymsrTrX) • [Example project](https://stackblitz.com/github/pqina/pintura-example-react?file=src%2FExampleFilePond.js)
 
 ---
 
 [<img src="https://github.com/pqina/filepond-github-assets/blob/master/header.svg" alt="FilePond"/>](https://www.buymeacoffee.com/rikschennink/)
 
-[Buy me a Coffee](https://www.buymeacoffee.com/rikschennink/) / [Use FilePond with Pintura](https://pqina.nl/pintura/?ref=github-filepond) / [Dev updates on Twitter](https://twitter.com/rikschennink/)
+[Buy me a Coffee](https://www.buymeacoffee.com/rikschennink/) • [Use FilePond with Pintura](https://pqina.nl/pintura/?ref=github-filepond) • [Dev updates](https://rik.schenn.ink/)
 
 ---
 
